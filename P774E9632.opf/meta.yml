@@ -18,3 +18,8 @@ source_metadata:
       parent: Songs and Poems
 created_at: '2022-03-01T05:43:36.561025'
 last_modified_at: '2022-03-01T05:43:36.561027'
+statistics:
+  total_words: 1553
+  total_non_words: 153
+quality:
+  non_words_ratio: 0.1
